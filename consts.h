@@ -1,0 +1,1 @@
+#define TERRAIN_SIZE 2000
